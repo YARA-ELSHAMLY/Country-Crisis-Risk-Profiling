@@ -40,8 +40,7 @@ The goal is to identify disaster trends, high-risk regions, and crisis patterns 
 
 ## 📊 Dashboard
 
-*Dashboard screenshots will be added here.*
-
+![Dashboard](dashboard.png)
 ---
 
 ## 📈 Key Insights
