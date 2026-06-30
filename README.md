@@ -1,4 +1,4 @@
-# 🌍 Country Crisis Risk Profiling
+# 🌍 Country Crisis Risk Profiling & Disaster Analysis
 
 ## 📌 Overview
 
@@ -21,11 +21,8 @@ The goal is to identify disaster trends, high-risk regions, and crisis patterns 
 ## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
 ---
@@ -44,12 +41,13 @@ The goal is to identify disaster trends, high-risk regions, and crisis patterns 
 
 ---
 
-## 🚀 Getting Started
+## 📖 How to Explore the Project
 
-1. Clone the repository.
-2. Open the Jupyter Notebook.
-3. Install the required Python libraries.
-4. Explore the Power BI dashboard.
+1. Review the dataset.
+2. Open the Jupyter Notebook to explore the preprocessing workflow.
+3. Execute the SQL queries for data analysis.
+4. Open the Power BI dashboard (.pbix) to interact with the visualizations.
+5. Read the project report for detailed findings.
 
 ---
 
@@ -68,5 +66,3 @@ The goal is to identify disaster trends, high-risk regions, and crisis patterns 
 
 
 
-
-Artificial Intelligence Graduate
