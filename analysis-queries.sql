@@ -38,7 +38,7 @@ WHERE Country = 'India'
 GROUP BY [Disaster_Type]
 ORDER BY Disaster_Count DESC;
 
---7 Countries with highest disaster frequency (2010–2021)
+--7 Countries with highest disaster frequency (2010â€“2021)
 SELECT Country, COUNT(*) AS Disaster_Count
 FROM [dbo].[cleaned_disaster_events.csv]
 WHERE Year >= 2010
