@@ -18,25 +18,41 @@ The goal is to identify disaster trends, high-risk regions, and crisis patterns 
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technologies
 
-- Python
-- Pandas
-- SQL
-- Power BI
-- Jupyter Notebook
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
 ---
 
 ## 📂 Project Structure
 
-- Dataset
-- Data Preprocessing Notebook
-- SQL Queries
-- Power BI Dashboard
-- Project Report
+```text
+├── README.md
+├── emdat-disasters-1900-2021.xlsx
+├── data-preprocessing.ipynb
+├── analysis-queries.sql
+├── country-crisis-dashboard.pbix
+├── Country-Crisis-Risk-Profiling.pdf
+└── dashboard.png
+```
 
 ---
+
+## 🚀 Getting Started
+
+1. Clone the repository.
+2. Open the Jupyter Notebook.
+3. Install the required Python libraries.
+4. Explore the Power BI dashboard.
+
+---
+
 
 ## 📊 Dashboard
 
